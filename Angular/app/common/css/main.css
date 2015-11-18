@@ -1,5 +1,6 @@
 ﻿body {
-
+    padding: 10px;
+    padding-top: 60px;
 }
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
